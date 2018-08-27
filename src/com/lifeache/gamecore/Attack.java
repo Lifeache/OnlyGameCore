@@ -16,5 +16,8 @@ public class Attack
 		this.attacker = attacker;
 		this.target = target;
 	}
+	public static void main(String[] args) {
+		
+	}
 	
 }
